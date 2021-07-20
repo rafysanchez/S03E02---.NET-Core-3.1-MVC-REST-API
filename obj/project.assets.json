@@ -5321,27 +5321,27 @@
       "Microsoft.EntityFrameworkCore >= 3.1.3",
       "Microsoft.EntityFrameworkCore.Design >= 3.1.3",
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.3",
-      "Swashbuckle.AspNetCore"
+      "Swashbuckle.AspNetCore >= 5.3.3"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lesja\\.nuget\\packages\\": {},
+    "C:\\Users\\rafael.portal\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\S3\\E2\\Commander\\Commander.csproj",
+      "projectUniqueName": "C:\\Temp\\NET-Core-3.1-MVC-REST-API\\Commander.csproj",
       "projectName": "Commander",
-      "projectPath": "D:\\S3\\E2\\Commander\\Commander.csproj",
-      "packagesPath": "C:\\Users\\lesja\\.nuget\\packages\\",
-      "outputPath": "D:\\S3\\E2\\Commander\\obj\\",
+      "projectPath": "C:\\Temp\\NET-Core-3.1-MVC-REST-API\\Commander.csproj",
+      "packagesPath": "C:\\Users\\rafael.portal\\.nuget\\packages\\",
+      "outputPath": "C:\\Temp\\NET-Core-3.1-MVC-REST-API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\lesja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rafael.portal\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5393,7 +5393,7 @@
           },
           "Swashbuckle.AspNetCore": {
             "target": "Package",
-            "version": "(, )"
+            "version": "[5.3.3, )"
           }
         },
         "imports": [
@@ -5414,7 +5414,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

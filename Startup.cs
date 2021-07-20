@@ -55,7 +55,7 @@ namespace Commander
             //ADDED AFTER TUTORIAL
             app.UseSwagger();
 
-            //ADDED AFTER TUTORIAL
+            //ADDED AFTER TUTORIAL https://localhost:44308/swagger/v1/swagger.json
             app.UseSwaggerUI( c=> {
                 c.SwaggerEndpoint("/swagger/v1/swagger.json", "Commander API V1");
             });
